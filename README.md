@@ -21,7 +21,7 @@ Security design must be coordinated with data architecture, regulatory complianc
 - **Incident Response & Disaster Recovery:** Define security incident response and business continuity procedures.
 
 ### 3. Integration of Compliance and Standards
-A structured approach to security follows prespecified frameworks and best practices:
+A structured approach to security follows prespecified frameworks and best practices such as: 
 - **OWASP Top 10** – Identifies top web application security risks.
 - **NIST 800-53** – Provides comprehensive security and privacy controls.
 - **GDPR** – Ensures the protection of personal data and privacy rights.
@@ -36,14 +36,14 @@ Security design is effective when compliance teams, IT stakeholders, and busines
 - Meet regulatory compliance needs and improve security governance.
 
 
-## Use Case: Security Architecture for GDPR Compliance
+## Use Case: Security Architecture with GDPR Compliance
 
 ### Project Objective
 The aim of the project is to develop and implement a security program with GDPR compliance.
 
 ## Designing GDPR-Compatible Security Steps
 
-### Step 1: Understand the Data & Business Objectives
+### Step 1: Understand the Business Objectives
 - Classify and categorize data into sensitivity and severity.
 - Assess the likelihood of data exfiltration.
 - Identify the impact of data breaches on business operations.
